@@ -1,2 +1,2 @@
 # profcode
-Aula de progranação
+Aula de programação
